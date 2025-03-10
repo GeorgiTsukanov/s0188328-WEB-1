@@ -1,0 +1,19 @@
+div.main{
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    background-color: rgba(225, 198, 198, 0.478);
+    align-items: center;
+}
+
+div.s{
+    width: 80%;
+}
+
+p{
+    font-size: large;
+}
+
+img {
+    max-width: 80%;
+}
